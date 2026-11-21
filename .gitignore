@@ -1,0 +1,9 @@
+# результати тестів і скріни
+test-out/
+node_modules/
+# сирі файли результатів — НІКОЛИ в git (у репо лише reference.json)
+*.raw.json
+*-raw.json
+olena-usenko-mbti-*.json
+mirror-mbti-*.json
+private/

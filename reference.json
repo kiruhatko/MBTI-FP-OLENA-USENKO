@@ -1,0 +1,98 @@
+{
+  "schema": "fp-mirror.olena/1",
+  "test": {
+    "name": "Дзеркало MBTI",
+    "question_count": 91,
+    "question_set_hash": 8547
+  },
+  "type": "ENTP",
+  "identity": "A",
+  "full": "ENTP-A",
+  "type_name": "Полеміст",
+  "axes": {
+    "EI": {
+      "pct_first": 54,
+      "dominant": "E",
+      "dominant_pct": 54
+    },
+    "SN": {
+      "pct_first": 40,
+      "dominant": "N",
+      "dominant_pct": 60
+    },
+    "TF": {
+      "pct_first": 61,
+      "dominant": "T",
+      "dominant_pct": 61
+    },
+    "JP": {
+      "pct_first": 46,
+      "dominant": "P",
+      "dominant_pct": 54
+    },
+    "AT": {
+      "pct_first": 62,
+      "dominant": "A",
+      "dominant_pct": 62
+    }
+  },
+  "facets": {
+    "ei1": {
+      "pct_first": 60
+    },
+    "ei2": {
+      "pct_first": 37
+    },
+    "ei3": {
+      "pct_first": 50
+    },
+    "ei4": {
+      "pct_first": 70
+    },
+    "sn1": {
+      "pct_first": 43
+    },
+    "sn2": {
+      "pct_first": 40
+    },
+    "sn3": {
+      "pct_first": 40
+    },
+    "sn4": {
+      "pct_first": 37
+    },
+    "tf1": {
+      "pct_first": 53
+    },
+    "tf2": {
+      "pct_first": 70
+    },
+    "tf3": {
+      "pct_first": 63
+    },
+    "tf4": {
+      "pct_first": 57
+    },
+    "jp1": {
+      "pct_first": 60
+    },
+    "jp2": {
+      "pct_first": 43
+    },
+    "jp3": {
+      "pct_first": 33
+    },
+    "jp4": {
+      "pct_first": 47
+    },
+    "at1": {
+      "pct_first": 88
+    },
+    "at2": {
+      "pct_first": 50
+    },
+    "at3": {
+      "pct_first": 44
+    }
+  }
+}
